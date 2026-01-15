@@ -1,0 +1,5 @@
+• Git log m'as permis de visualiser tout les commits, leurs titre, autheur, date de création et hash.
+
+• j'ai utilisé git show, il m'as permis de visualiser les infos vues dans le git log plus les modifs faites dans le commit.
+
+• git diff m'a permis de visualiser uniquement les differences entre deux commits, en somme faisant le travail de git show moins le travail de git log.
