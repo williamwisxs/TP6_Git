@@ -1,5 +1,16 @@
+• aprés git init, git commit puis git remote add origin > git push --set-upstream origin master
+
 • Git log m'as permis de visualiser tout les commits, leurs titre, autheur, date de création et hash.
 
 • j'ai utilisé git show, il m'as permis de visualiser les infos vues dans le git log plus les modifs faites dans le commit.
 
 • git diff m'a permis de visualiser uniquement les differences entre deux commits, en somme faisant le travail de git show moins le travail de git log.
+
+• git commit --amend -m "" pour changer le message du dernier commit
+
+• git reset <hash> pour revenir a l'état du commit dont le hash a été spécifié
+
+• git revert <hash> pour supprimer les changes du commit dont le hash a été spécifié.
+En cas de conflits, les résoudres dans les fichiers puis git revert --continue
+
+• git stash pour mettre les modifs de côté. git stash pop pour les ramener.

@@ -1,0 +1,8 @@
+1. Qu’as-tu appris pendant ce TP ? 
+ça m'a permis d'utiliser les commandes git en invite de commande.
+j'ai pu découvrir git stash et git revert que je n'utilise jamais.
+2. Quelle commande Git as-tu trouvé la plus utile et pourquoi ? 
+la commande git revert est la plus utile a mes yeux, permettant de dégager
+ les modifications non voulue d'un commit particulier de l'historique.
+3. Quelle partie t’a posé le plus de difficulté 
+j'ai revert les modifications de mon explications.txt :)
